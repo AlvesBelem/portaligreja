@@ -3,6 +3,27 @@ Planejamento SAAS Multi-tenancy
 Sistema Portal da Igreja
 
 Pessoas que vão utilizar o sistema:
-- Úsuario final
+- Usuário final
 - Empresas parceiras
 - Admin do sistema
+
+Funcionalidades para usuário final:
+Área Loja Virtual comum
+-- -- Login/Cadastro
+
+- Área Loja Virtual
+-- Listagem de produtos
+-- Carrinho de compra(Checkout)
+-- Visualização de pedidos
+
+- Área Serviços para usuário final:
+-- Listagem de Serviços
+-- Visualição de pedidos de Serviços
+
+Empresas parceiras:
+- Gestão de produtos 
+- Gestão de Serviços
+- Gestão de pedidos
+
+Admin:
+- Gestão de empresas parceiras
