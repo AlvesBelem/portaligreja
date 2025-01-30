@@ -27,3 +27,25 @@ Empresas parceiras:
 
 Admin:
 - Gestão de empresas parceiras
+
+Telas:
+
+Usuário final:
+ - Listagem de produtos / Serviços
+ - página do produto/Serviços
+ - carrinho de compras de produtos
+ - carrinho de agendamento de serviços
+ - login/Cadastro
+ - cadastro de endereço
+ - lista de pedidos
+ - pedido individual
+
+Empresas Parceiras:
+- Listagem de pedidos
+- Login/Cadastro para as empresas
+- cadastro de produtos e serviços
+- edição de produtos
+
+Admin:
+- Listagem de empresas
+- edição de empresas - Layout
