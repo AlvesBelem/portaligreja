@@ -1,0 +1,8 @@
+Planejamento SAAS Multi-tenancy
+
+Sistema Portal da Igreja
+
+Pessoas que vão utilizar o sistema:
+- Úsuario final
+- Empresas parceiras
+- Admin do sistema
